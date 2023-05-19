@@ -7,3 +7,7 @@ b=  'mousavi'
 print(a,b)
 # Test By Saman Farahani
 print("Saman Farahani")
+# Another commit by Saman Farahani
+def t():
+    print("hi")
+t()
