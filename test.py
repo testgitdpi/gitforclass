@@ -13,4 +13,4 @@ def t():
 t()
 
 # Elahe Ramzi
-Print("Elahe Ramzi")
+print("Elahe Ramzi")
