@@ -15,3 +15,9 @@ t()
 # Elahe Ramzi
 print("Elahe Ramzi")
 print("haniye motevali")
+
+def fres():
+    ba = "well "
+    al = "done!"
+    print(a,b)
+fres()
