@@ -1,0 +1,2 @@
+a = "tavasoli"
+print(a)
